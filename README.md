@@ -1,4 +1,4 @@
-# Retail-sales-prediction
+# Retailsales-prediction
 Retail Sales Forecast employs advanced machine learning techniques, prioritizing careful data preprocessing, feature enhancement, and comprehensive algorithm assessment and selection.
 Features
 
